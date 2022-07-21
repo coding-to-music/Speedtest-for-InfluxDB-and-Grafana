@@ -1,0 +1,21 @@
+{
+  "name": "speedtest-for-influxdb-and-grafana",
+  "version": "1.0.0",
+  "description": "**Speedtest.net Collector For InfluxDB and Grafana** ------------------------------",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrycarey/Speedtest-for-InfluxDB-and-Grafana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrycarey/Speedtest-for-InfluxDB-and-Grafana/issues"
+  },
+  "homepage": "https://github.com/barrycarey/Speedtest-for-InfluxDB-and-Grafana#readme"
+}
