@@ -5,4 +5,4 @@ services:
     container_name: speedtest
     volumes:
       - ./config.ini:/src/config.ini
-    restart: always
+    # restart: always
