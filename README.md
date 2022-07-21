@@ -4,7 +4,9 @@
 
 https://github.com/coding-to-music/Speedtest-for-InfluxDB-and-Grafana
 
-From / By https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/
+From / By https://github.com/barrycarey/Speedtest-for-InfluxDB-and-Grafana
+
+https://hub.docker.com/r/barrycarey/speedtest-for-influxdb-and-grafana
 
 ## Environment variables:
 
@@ -127,7 +129,11 @@ This tool is a wrapper for speedtest-cli which allows you to run periodic speedt
 
 ## Usage
 
-Before the first use run pip3 install -r requirements.txt
+Before the first use run
+
+```
+pip3 install -r requirements.txt
+```
 
 Enter your desired information in config.ini
 
