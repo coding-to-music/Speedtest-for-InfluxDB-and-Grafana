@@ -139,6 +139,10 @@ Enter your desired information in config.ini
 
 Run influxspeedtest.py
 
+```
+python influxspeedtest.py
+```
+
 **Custom Config File Name**
 
 If you wish to use a config file by a different name set an ENV Variable called influxspeedtest. The value you set will be the config file that's used.
